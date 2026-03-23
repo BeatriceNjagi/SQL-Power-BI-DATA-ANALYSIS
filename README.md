@@ -83,11 +83,3 @@ The report includes:
 
 ---
 
-## Key Insights
-
-- Cancellation rate trends highlight periods or doctors with higher-than-average appointment drop-off
-- Outstanding balance tracking surfaces patients or time periods with elevated unpaid amounts
-- YTD comparisons allow month-by-month progress tracking against annual targets
-
----
-
