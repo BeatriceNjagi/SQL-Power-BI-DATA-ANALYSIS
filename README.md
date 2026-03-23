@@ -37,6 +37,7 @@ Data is stored in PostgreSQL, connected directly to Power BI, and visualised thr
 
 ## Data Model
 
+![WhatsApp Image 2025-12-08 at 8 43 09 PM](https://github.com/user-attachments/assets/68182472-ce2a-492e-8403-00dd1a1c2c4e)
 
 
 The model connects two core tables:
