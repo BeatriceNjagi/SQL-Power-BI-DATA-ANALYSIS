@@ -37,6 +37,8 @@ Data is stored in PostgreSQL, connected directly to Power BI, and visualised thr
 
 ## Data Model
 
+
+
 The model connects two core tables:
 
 - `hospital_doctor_monthly_metrics` — appointment data by doctor and month
@@ -89,4 +91,3 @@ The report includes:
 
 ---
 
-*Analysis by [Beatrice Njagi](https://github.com/BeatriceNjagi)*
