@@ -83,4 +83,5 @@ The report includes:
 - Cancellation rate by doctor / month
 
 ---
+## Article link: https://dev.to/beatrice_njagi/health-care-data-analysis-power-bi-workflow-dli
 
